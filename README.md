@@ -1,7 +1,7 @@
 ## Olá, eu sou a Livia! 🌸
 
 
-Me chamo Livia Maria, tenho 21 anos e estou cursando Analise e Desenvolvimento de Sistemas na Cruzeiro Do Sul 🚀. Tenho grande interesse em desenvolvimento web e estou sempre buscando aprender cada vez mais para aprimorar na área. Sou apaixonada por tecnologia e games, gosto muito de ajudar as pessoas, trabalhar em equipe, sou proativa e curiosa! Estou aberta a novas ideias e estou em constante evolução para me tornar uma desenvolvedora cada vez melhor. 💻✨
+Me chamo Livia Maria, tenho 22 anos e estou cursando Analise e Desenvolvimento de Sistemas na Cruzeiro Do Sul 🚀. Tenho grande interesse em desenvolvimento web e estou sempre buscando aprender cada vez mais para aprimorar na área. Sou apaixonada por tecnologia e games, gosto muito de ajudar as pessoas, trabalhar em equipe, sou proativa e curiosa! Estou aberta a novas ideias e estou em constante evolução para me tornar uma desenvolvedora cada vez melhor. 💻✨
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30" height="30" /> 
